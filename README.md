@@ -1,2 +1,4 @@
 # COMP3500
-Activities&amp;Projects of COMP3500(Introduction to Operating Systems).
+<br />
+Code storage for activities&projects of COMP3500(Introduction to Operating Systems).
+<br />
